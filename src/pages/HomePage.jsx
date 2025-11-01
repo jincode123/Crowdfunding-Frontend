@@ -2,6 +2,7 @@ import useFundraisers from "../hooks/use-fundraisers";
 import FundraiserCard from "../components/FundraiserCard";
 import CreateFundraiser from "./CreateFundraiser";  
 import "../styles/pages/HomePage.css";
+import "../styles/components/NavBar.css";
 
 function HomePage() {
     const { fundraisers } = useFundraisers();  
