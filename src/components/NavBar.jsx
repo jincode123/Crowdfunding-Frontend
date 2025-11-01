@@ -18,7 +18,8 @@ function NavBar() {
                   </Link>
                   ) : (
                   <Link to="/login">Login</Link>
-   )}
+    )}           
+                  <Link to="/CreateFundraiser">Create Fundraiser</Link>
       </nav>
       <Outlet />
     </div>

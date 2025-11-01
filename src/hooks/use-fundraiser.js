@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 
 import getFundraiser from "../api/get-fundraiser";
+import postFundraiser from "../api/post-fundraiser.js";
 
 export default function useFundraiser(fundraiserId) {
   const [fundraiser, setFundraiser] = useState();

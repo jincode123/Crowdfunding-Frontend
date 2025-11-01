@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "./FundraiserCard.css";
+import "../styles/components/FundraiserCard.css";
 
 function FundraiserCard(props) {
   const { fundraiserData } = props;
