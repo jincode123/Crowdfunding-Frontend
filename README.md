@@ -14,3 +14,22 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+A link to the deployed project.
+https://monkeykingcrowdfunding.netlify.app/
+
+A screenshot of the homepage
+https://i.imgur.com/gJvjjrd.png
+
+A screenshot of the fundraiser creation page
+https://i.imgur.com/gJvjjrd.png
+
+A screenshot of the fundraiser creation form
+https://i.imgur.com/inCgfxV.png
+
+A screenshot of a fundraiser with pledges
+https://i.imgur.com/ESfMAeS.png
+
+A screenshot of the resulting page when an unauthorized user attempts to edit a fundraiser (optional, depending on whether or not this functionality makes sense in your app!)
+
+https://i.imgur.com/zG4KNgw.png
